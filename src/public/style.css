@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: #333;
+}
+
+#drop-area {
+    border: 2px dashed #ccc;
+    border-radius: 20px;
+    width: 300px;
+    margin: 30px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+#drop-area:hover {
+    background-color: #f9f9f9;
+}
+
+form {
+    margin-top: 20px;
+}
+
+.highlight {
+    border-color: blue;
+    background-color: #f0f8ff;
+}
